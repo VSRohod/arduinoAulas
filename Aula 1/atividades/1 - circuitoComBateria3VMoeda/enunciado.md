@@ -12,6 +12,6 @@ Tarefa: Monte um circuito simples utilizando apenas um LED e uma Bateria 3V (tip
 Resultado esperado: O alerta deve desaparecer, indicando que o circuito agora está seguro.
 
 3. Implementando o Interruptor
--Problema: O LED permanece aceso o tempo todo enquanto estiver conectado à bateria.
--Tarefa: Adicione um Interruptor (Slide Switch) ao circuito.
+- Problema: O LED permanece aceso o tempo todo enquanto estiver conectado à bateria.
+- Tarefa: Adicione um Interruptor (Slide Switch) ao circuito.
 Objetivo: O componente deve permitir que você interrompa ou libere a passagem da corrente, controlando quando o LED deve acender ou apagar.
