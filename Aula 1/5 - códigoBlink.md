@@ -105,4 +105,26 @@ que você teste códigos (como o clássico "Blink") sem precisar montar circuito
 <p>Para de fato fazermos o led piscar iremos inserir o código a abaixo, com isso de meio e meio segundo o led 
 ficará piescando! </p>
 <img width="970" height="642" alt="image" src="https://github.com/user-attachments/assets/b4b222a9-3a02-434a-b952-95a9af4c1783" />
+<p>Quando temos esse exemplo montado, podemos observar que o HIGH sempre vai nos trazer uma voltagem próxima a 5v , quando LOW , ele será 0, segue a montagem + código: </p>
+<img width="991" height="739" alt="Stunning Leelo-Maimu" src="https://github.com/user-attachments/assets/51f5717b-ae8b-4c8d-98f1-ebbaa2fc505f" />
+
+```
+// DECLARAÇÃO DE VARIÁVEIS
+int LED = 3;
+int tempo = 500;
+
+// CONFIGURAÇÕES INICIAIS
+void setup(){
+  pinMode(LED, OUTPUT);
+}
+
+// PROGRAMA PRINCIPAL
+void loop(){
+  digitalWrite(LED, HIGH); // ACENDER LED
+}
+
+// FIM DO PROGRAMA
+
+
+```
 
