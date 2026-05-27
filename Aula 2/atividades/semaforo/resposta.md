@@ -1,6 +1,7 @@
 # PEÇAS
 <img width="1137" height="568" alt="aula 2" src="https://github.com/user-attachments/assets/b82315b4-9308-41be-839e-f3eb8633f2c9" />
 
+# CÓDIGO
 ```
 int b1 = 2;
 int bAtivo1 = 0;
